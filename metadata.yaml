@@ -1,15 +1,21 @@
 _repo: Yan_50655
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Guyon, Maximilienne
     gutenberg_agent_id: '46020'
     url: http://www.gutenberg.org/2009/agents/46020
+covers:
+- cover_type: archival
+  image_path: 50655-h/images/cover.jpg
 creator:
   author:
     agent_name: Rameau, Jean
     gutenberg_agent_id: '46019'
     url: http://www.gutenberg.org/2009/agents/46019
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50655#Yan
 gutenberg_bookshelf:
 - FR Littérature
 - FR Nouveautés
